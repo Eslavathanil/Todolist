@@ -25,8 +25,9 @@ Javascript, HTML, CSS...
 
 
 # Demo
-
 tolistweb.ccbp.tech
+![Logo](https://media1.tenor.com/m/QJAjdgR8UFIAAAAC/to-do-list-check-list.gif)
+
 
 ## Screenshots
 
