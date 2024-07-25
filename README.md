@@ -28,10 +28,6 @@ Javascript, HTML, CSS...
 
 tolistweb.ccbp.tech
 
-# GIF
-https://tenor.com/en-GB/view/to-do-list-to-do-tasks-buas-bredauniversityofappliedsciences-gif-23971162
-
-
 ## Screenshots
 
 ![App Screenshot](https://res.cloudinary.com/dp8gu4t9m/image/upload/v1721899681/Screenshot_2024-07-25_145628_mr1myx.png)
